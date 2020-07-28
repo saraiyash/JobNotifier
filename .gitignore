@@ -1,0 +1,9 @@
+*.JPG
+*.bat
+*.txt
+*.properties
+*.csv
+*.json
+*.pyc
+new/
+com/
